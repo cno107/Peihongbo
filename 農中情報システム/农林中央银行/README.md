@@ -1,0 +1,26 @@
+# 农林中央银行
+
+## 企划部
+
+![63c35a38203f8665589713ff075959f](63c35a38203f8665589713ff075959f.png)
+
+## risk管理部
+
+![fa5bdf57f3b4aed9a62317dfb023629](fa5bdf57f3b4aed9a62317dfb023629.png)
+
+## システム部
+
+![73d06e59e0ca85c0ba7a387f54ce3bd](73d06e59e0ca85c0ba7a387f54ce3bd.png)
+
+##　審査部
+
+![5d8bfab4b6b1d2998c6abb487752fb9](5d8bfab4b6b1d2998c6abb487752fb9.png)
+
+## 課題
+
+![b5723e397c3451318e1533b28e96463](b5723e397c3451318e1533b28e96463.png)
+
+![e1d4dc1a1ed7747a0db4aac00627ee8](e1d4dc1a1ed7747a0db4aac00627ee8.png)
+
+
+
