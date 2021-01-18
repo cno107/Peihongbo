@@ -12,17 +12,14 @@
 + 自己PRをご記入ください。
   500文字以下
 
-自学でpersonal blogを作った。フロントエンドとバックエンドサイトのレイアウトとインタフェース、データベースの設計と接続、サーバーのセットとオンライン後のメンテナンス。使ったか技術はReact Hook + redux + node + mysql+Nginx(Linux)
+自学で個人ブログサイトを作ったことがある。フロントエンドとバックエンドサイトのレイアウトとインタフェース、データベースの設計と接続、サーバ配置とメンテナンス。使ったか技術はReact Hook + redux + node + mysql+Nginx
 https://github.com/cno107/personal-Blog
 それ以外、技術を活用するために、色んなタイプのサイトを作成した。スマートフォンサイト、レスポンスサイト、キーボードピアノサイトなどを自分のgithubホームページにアップロードした。
 https://cno107.github.io/
 自学でPythonを使ってplane warゲームを作った経験もある。
-https://github.com/cno107/Python--Plane-war
 【今まで利用した環境】
 OS：Linux、Windows
-言語：HTML、Javascript、Node、PHP、JAVA、C
-DB：MySQL、MongoDB
-データ分析時使った言語: Python 、R、Matlab
+言語：HTML、JS、Node、PHP、Python 、R、Matlab、JAVA、CMySQL、MongoDB
 
 
 
